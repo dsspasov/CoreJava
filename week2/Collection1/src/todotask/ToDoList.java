@@ -37,15 +37,15 @@ public class ToDoList {
     }
 
     boolean canFinish() {
-        return getRemainigTime() < getTimeNeeded();
+        return 0 <= getRemainigTime();
     }
 
     float getRemainigTime() {
         return (hours - getTimeNeeded());
     }
 
-    int getTimeNeeded() {
-        int timeNeeded = 0;
+    float getTimeNeeded() {
+        float timeNeeded = 0;
         for (Task t : queue) {
             timeNeeded += t.getTime();
         }
