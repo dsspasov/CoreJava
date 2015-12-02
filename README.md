@@ -1,5 +1,5 @@
 # CoreJava
-Core Java course in Hack Bulgaria. Version 2 
+[Core Java](https://github.com/HackBulgaria/Core-Java-2) course in [Hack Bulgaria](https://hackbulgaria.com/). Version 2 
 
 The second edition of the Core Java course in Hack Bulgaria.
 
