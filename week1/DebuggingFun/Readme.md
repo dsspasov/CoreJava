@@ -34,6 +34,3 @@ Can you think of a way for it to work with every object, not just string? Even p
 2) Make a test class
 3) Make several test cases, see that your tests fail mightily : )
 4) Implement! 
-
-###Reduce file path! In Java. In a test-driven way. ###
-See Problem 27 @ https://github.com/HackBulgaria/Programming101/blob/master/week0/simple_problems2.md

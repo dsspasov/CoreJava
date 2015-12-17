@@ -1,4 +1,4 @@
-package problem3;
+package pair;
 
 public final class Pair {
     private final Object obj1;
